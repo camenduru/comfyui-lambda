@@ -1,0 +1,7 @@
+xformers==0.0.20
+triton==2.0.0
+mediapipe==0.9.1.0
+addict
+yapf
+fvcore
+omegaconf

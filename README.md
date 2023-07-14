@@ -10,6 +10,9 @@ app_file: app.py
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+### Tutorial
+Please add the SDXL links in `app.py` `URL_FOR_SDXL_BASE_SAFETENSORS` and `URL_FOR_SDXL_REFINER_SAFETENSORS`
+
 ### Main Repo
 https://github.com/comfyanonymous/ComfyUI
 

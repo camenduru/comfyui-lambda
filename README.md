@@ -16,6 +16,9 @@ Please add the `SDXL` links in `app.py` | `URL_FOR_SDXL_BASE_SAFETENSORS` and `U
 ### Main Repo
 https://github.com/comfyanonymous/ComfyUI
 
+### Installed Extensions
+https://github.com/ltdrdata/ComfyUI-Manager
+
 ### Examples
 https://comfyanonymous.github.io/ComfyUI_examples/
 

@@ -11,12 +11,13 @@ app_file: app.py
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ### Main Repo
+https://github.com/comfyanonymous/ComfyUI
 
+### Examples
+https://comfyanonymous.github.io/ComfyUI_examples/
 
-### Page
-
-
-### Paper
-
+### Documentation
+https://github.com/comfyanonymous/ComfyUI
 
 ### License
+https://huggingface.co/spaces/CompVis/stable-diffusion-license
